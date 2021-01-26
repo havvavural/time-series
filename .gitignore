@@ -128,7 +128,7 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-.DS_Sore
+.DS_Store
 .git
 .gitignore
 .gitkeep
